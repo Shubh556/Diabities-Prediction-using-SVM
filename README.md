@@ -19,6 +19,7 @@ The model is built using Support Vector Machine (SVM), a supervised learning alg
 The performance of the model is evaluated using accuracy, which measures the percentage of correctly predicted instances out of all instances.
 
 1.Training Accuracy: The accuracy of the model on the training data.
+
 2.Test Accuracy: The accuracy of the model on unseen test data.
 
 ## Testing the Model
